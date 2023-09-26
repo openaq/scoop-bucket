@@ -1,0 +1,15 @@
+{
+    "version": "0.4.2-rc",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/openaq/openaq-cli/releases/download/v0.4.2-rc/openaq-cli_0.4.2-rc_windows_amd64.tar.gz",
+            "bin": [
+                "openaq.exe"
+            ],
+            "hash": "7c8954e0bdf01680667f0a832e6d3c5a2f13168f4b397df3557a0e550ea569b9"
+        }
+    },
+    "homepage": "https://openaq.org",
+    "license": "MIT",
+    "description": "Official Command Line Interface for OpenAQ."
+}
