@@ -1,7 +1,7 @@
-# scoop-bucket [![Powered By: OpenAQ](https://img.shields.io/badge/powered%20by-openaq-green.svg?style=flat-square)](https://github.com/openaq)
+# scoop-bucket [![Powered By: GoReleaser](https://img.shields.io/badge/powered%20by-goreleaser-green.svg?style=flat-square)](https://github.com/goreleaser)
 
 
-## Scoop bucket for @openaq-cli binaries, powered by @openaq
+## Scoop bucket for @openaq CLI binaries, powered by @goreleaser
 
 - **Add the bucket**
 
